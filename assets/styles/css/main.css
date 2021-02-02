@@ -1,0 +1,20 @@
+.text-capitalize
+{
+	text-transform:capitalize;
+}
+.text-uppercase
+{
+	text-transform:uppercase;
+}
+.text-lowercase
+{
+	text-transform:lowercase;
+}
+.padding-10
+{
+	padding:10px;
+}
+.icon-margin-right
+{
+	margin-left:5px;
+}

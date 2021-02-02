@@ -1,0 +1,16 @@
+.profile-img,.action
+{
+	display:none !important;
+}
+h2,tr
+{
+	text-transform:capitalize;
+}
+h2
+{
+	text-align:center;
+}
+.text-lowercase
+{
+	text-transform:lowercase;
+}
